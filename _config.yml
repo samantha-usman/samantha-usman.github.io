@@ -25,9 +25,11 @@ author: Samantha Usman
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "samusman.space"
-    - Learn markdown: "samusman.space"
+  Contact Me: "contactme"
+  Outreach: "outreach"
+#  Resources:
+#    - Beautiful Jekyll: "samusman.space"
+#    - Learn markdown: "samusman.space"
   Author's home: "samusman.space"
 
 # --- Logo --- #
