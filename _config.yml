@@ -25,9 +25,9 @@ author: Samantha Usman
 
 navbar-links:
   About Me: "aboutme"
-  Contact Me: "contactme"
-  Outreach: "outreach"
   CV: "cv"
+  Outreach: "outreach"
+  Contact Me: "contactme"
 
 # --- Logo --- #
 
