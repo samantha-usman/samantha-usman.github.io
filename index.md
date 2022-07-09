@@ -2,13 +2,20 @@
 layout: home
 title: Samantha Usman
 ---
-I am an astrophysics PhD candidate at the [University of Chicago](https://astrophysics.uchicago.edu).
+I am an astrophysics PhD candidate at the [University of
+Chicago](https://astrophysics.uchicago.edu).
 
-While at [Syracuse University](https://physics.syr.edu) and a [Cardiff University](https://www.cardiff.ac.uk/physics-astronomy/), my research focused on researching gravitational-wave data from the [Laser Interferometer Gravitational-Wave Observatory (LIGO)](https://www.ligo.org/).
-I'm currently using spectral data to look at elements found in stars around our galaxy! I hope to learn more about the formation of heavy elements by identifying neutron-capture elements in metal-poor stars.
-For more details, head to my [CV page](CV.md).
+While at [Syracuse University](https://physics.syr.edu) and a [Cardiff
+University](https://www.cardiff.ac.uk/physics-astronomy/), my research focused
+on analyzinggravitational-wave data from the [Laser Interferometer
+Gravitational-Wave Observatory (LIGO)](https://www.ligo.org/).  I'm currently
+using spectral data to look at elements found in stars around our
+galaxy! I hope to learn more about the formation of heavy elements by
+identifying neutron-capture elements in metal-poor stars.  For more details,
+head to my [CV page](CV.md).
 
-To learn more about me and what I do for fun (and photos of my dog), head over to my [About Me page](aboutme.md).
+To learn more about me and what I do for fun (and photos of my dog), head over
+to my [About Me page](aboutme.md).
 
 <br />
 ### Twitter:
