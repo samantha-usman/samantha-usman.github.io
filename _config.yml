@@ -27,10 +27,10 @@ navbar-links:
   About Me: "aboutme"
   Contact Me: "contactme"
   Outreach: "outreach"
+  CV: "cv"
 #  Resources:
 #    - Beautiful Jekyll: "samusman.space"
 #    - Learn markdown: "samusman.space"
-  Author's home: "samusman.space"
 
 # --- Logo --- #
 
@@ -75,7 +75,7 @@ excerpt_length: 50
 #navbar-col: "#190029"
 navbar-text-col: "#FFFFFF"
 #navbar-border-col: "#DDDDDD"
-page-col: "#000000"
+page-col: "#190029"
 text-col: "#FFFFFF"
 link-col: "#E4B7FF"
 #hover-col: "#0085A1"

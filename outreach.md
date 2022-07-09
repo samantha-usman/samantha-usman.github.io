@@ -35,3 +35,9 @@ International LGBT+ in STEM Day. I coordinated with Enfys, the Cardiff
 University's LGBT network, to secure funding and location to host a 50-person
 event. I also invited two speakers to come and discuss their experiences in the
 LGBT community.
+
+![Pride 2020](/assets/img/pride2022.jpg)
+*My dog and I at the Chicago Pride Parade in June 2020, where we marched with
+the University of Chicago.*
+
+
