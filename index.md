@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Samantha Usman
+title: Sam Usman
 ---
 I am an astrophysics PhD candidate at the [University of
 Chicago](https://astrophysics.uchicago.edu).
@@ -21,7 +21,7 @@ to my [About Me page](aboutme.md).
 ### Twitter:
 
 To keep up with me, you can follow me on Twitter:
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Have you ever wondered where gold comes from? It&#39;s complex, so I broke it down in my outreach talk at <a href="https://twitter.com/BryceCanyonNPS?ref_src=twsrc%5Etfw">@BryceCanyonNPS</a> AstroFest last week!<br><br>Watch it here:<a href="https://t.co/8adamSLJ3k">https://t.co/8adamSLJ3k</a></p>&mdash; Samantha A Usman (@SamanthaAUsman) <a href="https://twitter.com/SamanthaAUsman/status/1541533507624833024?ref_src=twsrc%5Etfw">June 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Have you ever wondered where gold comes from? It&#39;s complex, so I broke it down in my outreach talk at <a href="https://twitter.com/BryceCanyonNPS?ref_src=twsrc%5Etfw">@BryceCanyonNPS</a> AstroFest last week!<br><br>Watch it here:<a href="https://t.co/8adamSLJ3k">https://t.co/8adamSLJ3k</a></p>&mdash; Sam Usman (@SamanthaAUsman) <a href="https://twitter.com/SamanthaAUsman/status/1541533507624833024?ref_src=twsrc%5Etfw">June 27, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <br />
 <br />

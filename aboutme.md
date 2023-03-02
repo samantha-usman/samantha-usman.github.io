@@ -3,7 +3,7 @@ layout: default
 title: About Me
 ---
 
-Hello! My name is Samantha Usman. I'm an astrophysics PhD candidate at the [University of Chicago](https://astrophysics.uchicago.edu).
+Hello! My name is Sam Usman. I'm an astrophysics PhD candidate at the [University of Chicago](https://astrophysics.uchicago.edu).
 
 To learn more about my professional work, head to my [CV page](CV.md).
 
