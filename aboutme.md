@@ -8,16 +8,21 @@ Hello! My name is Sam Usman. I'm an astrophysics PhD candidate at the [Universit
 To learn more about my professional work, head to my [CV page](CV.md).
 
 For fun, I make pottery:
+<br />
 <img src="/assets/img/pottery.jpg" width="50%" height="50%" alt="A few pieces of pottery I have made." style="border:1px solid black;" />
+<br />
 *A few pieces of pottery I have made*
 
 train in Brazilian jiu jitsu:
+<br />
 <img src="/assets/img/bjj.png" width="50%" height="50%" alt="[My purple belt promotion on Feb. 4th, 2020. Photo credit: Ryan Nishimoto." style="border:1px solid black;" />
+<br />
+*My purple belt promotion on Feb. 4th, 2020*
 
 and hike with my dog, Burr:
-![My dog, Burr, in the stump of a tree at Swallow Cliff Woods](/assets/img/hike_with_burr.jpg)
+<br />
 <img src="/assets/img/hike_with_burr.jpg" width="50%" height="50%" alt="My dog, Burr, in the stump of a tree at Swallow Cliff Woods" style="border:1px solid black;" />
-
+<br />
 *My dog, Burr, in the stump of a tree at Swallow Cliff Woods*
 
 <br />
