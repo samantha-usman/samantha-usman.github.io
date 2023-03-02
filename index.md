@@ -7,7 +7,7 @@ Chicago](https://astrophysics.uchicago.edu).
 
 While at [Syracuse University](https://physics.syr.edu) and a [Cardiff
 University](https://www.cardiff.ac.uk/physics-astronomy/), my research focused
-on analyzinggravitational-wave data from the [Laser Interferometer
+on analyzing gravitational-wave data from the [Laser Interferometer
 Gravitational-Wave Observatory (LIGO)](https://www.ligo.org/).  I'm currently
 using spectral data to look at elements found in stars around our
 galaxy! I hope to learn more about the formation of heavy elements by
