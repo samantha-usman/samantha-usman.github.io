@@ -11,6 +11,9 @@ For fun, I make pottery:
 ![A few pieces of pottery I have made](/assets/img/pottery.jpg)
 *A few pieces of pottery I have made*
 
+<img src="/assets/img/pottery.jpg" width="25%" height="25%" alt="A few pieces of pottery I have made." style="border:1px solid black;" />
+
+
 train in Brazilian jiu jitsu:
 ![My purple belt promotion on Feb. 4th, 2020. Photo credit: Ryan Nishimoto](/assets/img/bjj.png)
 
