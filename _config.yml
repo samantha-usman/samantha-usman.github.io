@@ -16,7 +16,7 @@ whitelist:
 # --- Required options --- #
 
 # Name of website
-title: Sam Usman's Website
+title: Sam Usman
 
 # Your name to show in the footer
 author: Sam Usman
@@ -26,7 +26,7 @@ author: Sam Usman
 navbar-links:
   About Me: "aboutme"
   CV: "CV"
-  Outreach: "outreach"
+  Diversity: "outreach"
   Contact Me: "contactme"
 
 # --- Logo --- #
@@ -56,7 +56,7 @@ social-network-links:
 
 # Select which social network share links to show in posts
 share-links-active:
-  twitter: true
+  twitter: false
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
