@@ -3,17 +3,27 @@ layout: default
 title: CV
 ---
 
-My research is primarily focused on spectroscopy of galactic halo stars.
-I previously worked on gravitational waves, specifically from binary systems.
+While at [Syracuse University](https://physics.syr.edu) and a [Cardiff
+University](https://www.cardiff.ac.uk/physics-astronomy/), my research focused
+on analyzing gravitational-wave data from the [Laser Interferometer
+Gravitational-Wave Observatory (LIGO)](https://www.ligo.org/).  
+I worked on a variety of aspects of data analysis, including the
+[identification of gravitational waves from merging binary
+systems](https://ui.adsabs.harvard.edu/abs/2016CQGra..33u5004U/abstract).
 
-I currently hold an MPhil in Physics and Astronomy from [Cardiff
-University](https://www.cardiff.ac.uk/physics-astronomy) and a BS in
-Physics and Math (double major) with a French minor from
-[Syracuse University](https://thecollege.syr.edu/physics/).
-
-I have previously had internships at [Fermilab](https://www.fnal.gov),
-[NASA](https://www.nasa.gov/goddard), [Caltech](https://www.ligo.caltech.edu/)
-and the [Linear Particle Accelerator of
-Orsay](https://a2c.ijclab.in2p3.fr/en/a2c-home-en/gw-home-en/gw-virgo-2/).
+At [UChicago](https://astrophysics.uchicago.edu), I decided to move from the
+dark side to the light and began my research in optical spectroscopy.
+I have analyzed stellar streams as part of the [Southern Stellar Stream
+Spectroscopic Survey ($S^5$ Collaboration)](https://s5collab.github.io/).
+I performed the first high-resolution analysis of the [300S globular cluster
+stellar stream](https://ui.adsabs.harvard.edu/abs/2024MNRAS.529.2413U/abstract).
+I worked with then-[OSU](https://astronomy.osu.edu/) undergrad [Kaia
+Atzberger](https://astronomy.as.virginia.edu/kaia-atzberger) on the [Leiptr
+stellar stream](https://ui.adsabs.harvard.edu/abs/2024arXiv241017312A/abstract), 
+which we found to be the least massive disrupted dwarf galaxy identified to-date.
+I am currently working on a paper on the GD-1 stellar stream with
+[ASU](https://sese.asu.edu/research/focus-areas/cosmology-astronomy-astrophysics)
+undergrad [Naomi Carl](https://naomicarl.wordpress.com/), and on the intact globular
+cluster ESO 280-SC06.
 
 View my full CV [here](/assets/Usman, CV.pdf).
