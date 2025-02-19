@@ -3,7 +3,7 @@ layout: home
 title: Sam Usman
 ---
 I am an astrophysics PhD candidate at the [University of
-Chicago](https://astrophysics.uchicago.edu) and an [American Dissertaion
+Chicago](https://astrophysics.uchicago.edu) and an [American Dissertation
 Fellow](https://astrophysics.uchicago.edu/news/article/samantha-usman-has-been-awarded-the-aauw-american-dissertation-fellowship/) through the American Association for University Women (AAUW).
 
 I will be defending my thesis titled *Probing Multiple Populations in
