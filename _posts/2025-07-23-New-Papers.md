@@ -26,7 +26,7 @@ Does this sound confusing? Send me an email for more clarification, or read the 
 
 # Chemical Abundances in the Leiptr Stellar Stream: A Disrupted Ultra-faint Dwarf Galaxy?
 
-## Kaia R. Atzberger, Sam A. Usma, nAlexander P. J, iLara R. Cullinane, Denis Erkal, Terese T. Hansen, Geraint F. Lewis, Ting S. Li, Guilherme Limberg, Alice Luna, Sarah L. Martell, Madeleine McKenzie, Andrew B. Pace, Daniel B. Zucker 
+## Kaia R. Atzberger, Sam A. Usman, Alexander P. Ji, Lara R. Cullinane, Denis Erkal, Terese T. Hansen, Geraint F. Lewis, Ting S. Li, Guilherme Limberg, Alice Luna, Sarah L. Martell, Madeleine McKenzie, Andrew B. Pace, Daniel B. Zucker 
 
 In addition to my paper on the intact globular cluster, a student that I mentored with my advisor Prof. Alex Ji published her first first-author paper earlier this year!
 In it, she analyzed four stars that I had observed in the Leiptr stellar stream.
