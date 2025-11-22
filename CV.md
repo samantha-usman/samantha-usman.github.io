@@ -3,7 +3,7 @@ layout: default
 title: CV
 ---
 
-While at [Syracuse University](https://physics.syr.edu) and a [Cardiff
+While at [Syracuse University](https://physics.syr.edu) and [Cardiff
 University](https://www.cardiff.ac.uk/physics-astronomy/), my research focused
 on analyzing gravitational-wave data from the [Laser Interferometer
 Gravitational-Wave Observatory (LIGO)](https://www.ligo.org/).  
